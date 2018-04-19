@@ -32,7 +32,7 @@ while True:
         if key in your_input:
             print ("Bot:  ",reply)
         '''if key not in g:
-            print("Sorry i don't understand!")
+            print("Sorry i didn't understand!")
             ID = 0'''
 
         if ID==0:
