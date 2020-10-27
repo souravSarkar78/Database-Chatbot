@@ -1,4 +1,4 @@
-# idts
+# souravSarkar78
 
 First open DatabaseCreator.py for create database
 then run main.py for talk with your bot .. :P
